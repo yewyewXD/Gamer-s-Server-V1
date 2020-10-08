@@ -1,5 +1,21 @@
 # Gamer's Server V1
 
-About: Version 1.0 of my website to promote my discord server. I was just starting out to build website <br>
-Status: Completed (in 2018) <br>
-Skills: HTML
+## Description
+
+This is my first ever HTML project that's coded from scratch. It's a website to promote my Discord server (Gamer's Server).
+
+## Build status
+
+**Not in production**
+
+Started on: Unknown <br>
+Completed in: 2018 <br>
+
+## Screenshots
+
+![Landing Page](https://github.com/yewyewXD/Gamer-s-Server-V1/blob/master/readme-images/landing.JPG?raw=true "Landing Page")
+
+## Tech/framework used
+
+- HTML
+- CSS
